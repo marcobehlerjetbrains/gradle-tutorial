@@ -1,0 +1,4 @@
+rootProject.name = 'my-multi-module-app'
+
+include 'my-backend'
+include 'my-webapp'
